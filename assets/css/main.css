@@ -3999,4 +3999,28 @@ input, select, textarea {
 #a1:hover{
 	color:gray;
 }
+.langWrap {
+	
+	position:fixed;
+	bottom:30px;
+	left:120px;
+	text-decoration:none;
+	
+}
+.sp{
+	float:left;
+}
+.langWrap a{
+	float:left;
+	text-decoration:none;
+	padding-left:5px;
+
+}
+.langWrap a:hover{
+	 color:black;
+	 text-decoration:none;
+
+}
+
+
 	
