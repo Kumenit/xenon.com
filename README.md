@@ -1,4 +1,4 @@
-xenon.com by kumenit desta
+xenon.com by kumenit desta.
 
 Free for personal and commercial use
 
